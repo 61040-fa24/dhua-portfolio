@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Dana Hua's Cool Awesome Portfolio",
   description: "6.1040 Fall 2024",
-  base: "/dhua-portfolio/",
+  base: "/portfolio-dhua/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
