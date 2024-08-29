@@ -10,6 +10,8 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "Assignments", link: "/assignments" },
+      { text: "About Me", link: "/about" },
     ],
 
     sidebar: [
@@ -17,8 +19,16 @@ export default defineConfig({
         text: "Blogs",
         link: "/blogs",
       },
+      {
+        text: "Assignments",
+        link: "/assignments",
+      },
+      {
+        text: "About Me",
+        link: "/about",
+      },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa234" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
   },
 });
