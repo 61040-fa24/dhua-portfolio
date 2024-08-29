@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Dana Hua"
+  text: "a TA extraordinaire's portfolio"
+  tagline: "a 6.1040 production..."
   actions:
     - theme: brand
       text: Template Repository

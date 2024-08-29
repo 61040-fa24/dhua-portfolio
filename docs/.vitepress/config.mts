@@ -2,10 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
-  description: "6.1040 Fall 2023",
-  // TODO: add your base here; this should be your repo name!
-  // base: "/<REPO_NAME>/",
+  title: "Dana Hua's Cool Awesome Portfolio",
+  description: "6.1040 Fall 2024",
+  base: "/dhua-portfolio/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -20,6 +19,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa23" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa234" }],
   },
 });
